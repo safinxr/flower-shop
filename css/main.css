@@ -168,6 +168,9 @@ header{
 .hot-deal-area img{
     width: 250px;
 }
+
+/* ================================================ */
+
 .instagram-area{
     margin: 100px;
 }
@@ -184,6 +187,39 @@ header{
 .insta-img{
     width: 260px;
 }
+
+/* <!-- =================flower details============== --> */
+
+.flower-details-area{
+    margin: 0 100px 100px 100px ;
+}
+
+.cherry-blossom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: justify;
+    margin: 30px 0;
+}
+.cherry-blossom-img{
+    width: 300%;
+    height: 400px;
+    border-radius: 10px;
+    margin-right: 50px;
+    
+}
+.sunflower-img{
+    width: 300%;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 50px; 
+}
+.cherry-blossom h2{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+
 
 /* <!-- =====================Latest deals==================== --> */
 
