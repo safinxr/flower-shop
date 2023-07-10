@@ -184,3 +184,23 @@ header{
 .insta-img{
     width: 260px;
 }
+
+/* <!-- =====================Latest deals==================== --> */
+
+.latest-deals-area{
+    margin: 0 100px;
+    background-image: url(../images/Rectangle\ 9.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 90px 0;
+    
+}
+.email-input{
+    font-size: 18px;
+    width: 550px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    padding: 6px;
+    margin-right: 20px;
+}
