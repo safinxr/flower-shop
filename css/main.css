@@ -72,7 +72,7 @@ header{
     text-align: center;
     margin: 150px 100px 0 100px;
 }
-.Our-Featured-section > p{
+.sub-text{
     width: 600px;
     margin:22px auto 100px auto;
     font-size: 14px;
@@ -164,6 +164,23 @@ header{
   justify-content: center;
   align-items: center; 
 }
+
 .hot-deal-area img{
     width: 250px;
+}
+.instagram-area{
+    margin: 100px;
+}
+.sub-text2{
+    width: 600px;
+    margin:22px auto 40px auto;
+    font-size: 14px;
+    text-align: center;
+}
+.insta-img-div{
+    display: flex;
+    justify-content: space-around;
+}
+.insta-img{
+    width: 260px;
 }
