@@ -1,0 +1,57 @@
+/* Font family */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700;900&family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* common css */
+.primary-btn{
+    border: none;
+    background-color: #E55473;
+    color: #FFFFFF;
+    padding: 16px 37px;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+/* Header section */
+header{
+    background-color: #E554731A;
+
+}
+
+.top-banner{
+    margin: 0 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.top-banner-text{
+    width: 50%;
+}
+.top-banner-text > h1{
+    font-size: 65px;
+    font-weight: 800;
+    margin-bottom: 28px;
+}
+.top-banner-text > p{
+    text-align: justify;
+    font-size: 14px;
+    margin-bottom: 28px;
+}
+.top-banner-img{
+    width: 510px;
+    margin-top: 25px;
+    
+}
